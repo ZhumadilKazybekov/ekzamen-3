@@ -1,0 +1,184 @@
+.container {
+    display: flex;
+    margin: 15px;
+}
+.picter-1  {
+    border: 2px solid rgb(95, 95, 100);
+    /* background-size: cover; */
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+.ron-7 {
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.ron-7 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px double white;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.view {
+    margin-left: 50px;
+}
+/* .view h1 {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+    margin-bottom: 10px;
+} */
+
+.ww {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    align-items: center;
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+
+
+
+
+.picter-2 {
+    border: 2px solid rgb(95, 95, 100);
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.ron-8 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px double white;
+}
+
+.ron-8 {
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.view-1 {
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+    font-family: cursive;
+}
+
+/* .view-1 h1 {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+} */
+
+.ss {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    align-items: center;
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+
+
+
+.picter-3 {
+    border: 2px solid rgb(95, 95, 100);
+    width: 200px;
+    border-radius: 20px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.ron-9 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px double white;
+}
+
+.ron-9 {
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
+
+h1 {
+    font-size: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    text-align: center;
+    font-family: cursive;
+}
+
+.view-2 {
+    margin-left: 50px;
+
+}
+
+/* .view-2 h1 {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    font-size: 10px;
+} */
+
+.bb {
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    align-items: center;
+    border: 2px solid blue;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+
